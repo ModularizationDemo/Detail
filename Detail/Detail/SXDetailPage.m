@@ -10,8 +10,8 @@
 #import "SXNewsDetailViewModel.h"
 #import "UINavigationController+FDFullscreenPopGesture.h"
 #import "SXDetailPage.h"
-#import <Search-Category/Lothar+Search.h>
-#import <Reply-Category/Lothar+Reply.h>
+#import "Lothar+Search.h"
+#import "Lothar+Reply.h"
 #import <Tools/SXEasyMacro.h>
 #import <Tools/UIView+Frame.h>
 #import <SDWebImage/UIImageView+WebCache.h>
